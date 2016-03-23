@@ -139,3 +139,6 @@ app/locale/en_US/template/email/*.html
 app/locale/en_US/template/email/html/*
 app/locale/en_US/template/email/sales/*
 app/locale/en_US/template/email/aoe_scheduler/*
+app/code/local/MDN/*
+
+app/etc/modules/MDN_ExtensionConflict.xml
